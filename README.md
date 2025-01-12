@@ -13,9 +13,9 @@
 
 - 🏢 I'm an IT Specialist at Gaballah Group.
 - 👨‍💻 I'm a graduated form HICMIS , I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 
-- ⚡ 
-- 👨‍💻 
+- 💬 Interested in website programming.
+- ⚡ Front-End Developer ( Angular ) 
+- 👨‍💻 🤞
 
 
 ### Connect with Me :
